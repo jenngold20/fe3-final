@@ -20,7 +20,7 @@ code {
 }
 
 .noFav {
-  color: rgb(253, 167, 167);
+  color: rgb(180, 160, 248);
   font-size: 1.5em;
   cursor: pointer;
 }
@@ -35,7 +35,7 @@ nav {
   justify-content:flex-end;
   padding: 1rem;
   align-items:center;
-  background-color: mediumturquoise;
+  background-color:  rgb(246, 183, 252);
   border-color: crimson;
 }
 
@@ -65,7 +65,7 @@ a:hover {
 }
 
 footer {
-  background-color: mediumturquoise;
+  background-color:  rgb(246, 183, 252);
   display: flex;
   justify-content: space-between;
   text-align: center;
@@ -93,7 +93,7 @@ footer>p {
 }
 
 form {
-  background-color:mediumturquoise;
+  background-color:rgb(246, 183, 252);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -127,7 +127,7 @@ form {
 .buttonform{
   margin: 10px auto;
   padding: 5px 5px;
-  background-color:mediumturquoise;
+  background-color: rgb(246, 183, 252);
   border-radius: 4px;
   color: white;
   font-size: 1em;
@@ -137,7 +137,7 @@ form {
 }
 
 .card {
-  background-color: mediumturquoise;
+  background-color:rgb(246, 183, 252);
   display: flex;
   justify-content: space-around;
   flex-direction: column;
@@ -213,10 +213,10 @@ img {
 }
 
 .dentist{
-  border-color: darkgrey;
+  border-color: rgb(12, 249, 0);
   background-size: 30px;
   border-radius: 20px;
-  background-color: mediumturquoise;
+  background-color: rgb(246, 183, 252);
   padding: 5px 20px 5px 20px;
   width: fit-content;
 }
