@@ -165,7 +165,7 @@ card>p {
 }
 
 .card:hover {
-  border: 0.5px solid rgb(206, 217, 142);
+  border: 0.5px solid rgb(1, 190, 248);
 }
 
 .card-grid {
@@ -213,7 +213,7 @@ img {
 }
 
 .dentist{
-  border-color: rgb(12, 249, 0);
+  border-color: rgb(31, 34, 243);
   background-size: 30px;
   border-radius: 20px;
   background-color: rgb(246, 183, 252);

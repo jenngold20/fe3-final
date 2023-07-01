@@ -6,8 +6,8 @@ import Form from '../Components/Form'
 const Contact = () => {
   return (
     <div className='form'>
-      <h2>¿Quiere saber mas?</h2>
-      <p>Envienos su consulta y le contactaremos</p>
+      <h2>¿Desea recibir más información?</h2>
+      <p>Dejenos sus datos para recibirla</p>
       <Form/>
     </div>
   )

@@ -22,7 +22,7 @@ const Detail = () => {
         <h1 className='dentist'>Detalle del dentista </h1>
         {console.log(data)}
         <h3> Nombre: {data.name}</h3>
-        <p>Email: {data.email}</p>
+        <p>Correo electrónico: {data.email}</p>
         <p>Telefono: {data.phone}</p>
         <p>Sitio web: {data.website}</p>
         {/* aqui deberan renderizar la informacion en detalle de un user en especifico */}
